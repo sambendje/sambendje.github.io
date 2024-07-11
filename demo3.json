@@ -14,7 +14,7 @@
   "mark": {"type": "line", "color": "deepskyblue"},
 
   "encoding": {
-    "x": {"field": "date", "type": "temporal"},
+    "x": {"field": "Date", "type": "temporal"},
     "y": {"field": "value", "type": "quantitative", "title":null}
   },
   "config": {}
