@@ -1,239 +1,239 @@
-Country	iso3	Volume
-Afghanistan	AFG	N/A
-Albania	ALB	N/A
-Algeria	DZA	N/A
-American Samoa	ASM	N/A
-Andorra	AND	N/A
-Angola	AGO	N/A
-Anguilla	AIA	N/A
-Antigua and Barbuda	ATG	N/A
-Argentina	ARG	N/A
-Armenia	ARM	N/A
-Aruba	ABW	N/A
-Australia	AUS	64
-Austria	AUT	N/A
-Azerbaijan	AZE	N/A
-Bahamas	BHS	N/A
-Bahrain	BHR	N/A
-Bangladesh	BGD	N/A
-Barbados	BRB	N/A
-Belarus	BLR	N/A
-Belgium	BEL	3
-Belize	BLZ	3
-Benin	BEN	N/A
-Bermuda	BMU	N/A
-Bhutan	BTN	N/A
-Bolivia	BOL	N/A
-Bosnia and Herzegovina	BIH	N/A
-Botswana	BWA	N/A
-Brazil	BRA	N/A
-British Virgin Islands	VGB	N/A
-Brunei	BRN	N/A
-Bulgaria	BGR	N/A
-Burkina Faso	BFA	N/A
-Burundi	BDI	N/A
-Cambodia	KHM	N/A
-Cameroon	CMR	N/A
-Canada	CAN	N/A
-Cape Verde	CPV	N/A
-Cayman Islands	CYM	N/A
-Central African Republic	CAF	N/A
-Chad	TCD	N/A
-Chile	CHL	N/A
-China	CHN	N/A
-Cocos (Keeling) Islands	CCK	N/A
-Colombia	COL	N/A
-Comoros	COM	N/A
-Democratic Republic of  the Congo	COD	N/A
-Republic of the Congo	COG	N/A
-Cook Islands	COK	N/A
-Costa Rica	CRI	N/A
-Côte d'Ivoire	CIV	N/A
-Croatia	HRV	N/A
-Cuba	CUB	N/A
-Curaçao	CUW	N/A
-Cyprus	CYP	N/A
-Czech Republic	CZE	N/A
-Denmark	DNK	N/A
-Djibouti	DJI	N/A
-Dominica	DMA	N/A
-Dominican Republic	DOM	N/A
-East Timor	TLS	N/A
-Ecuador	ECU	N/A
-Egypt	EGY	N/A
-El Salvador	SLV	N/A
-Equatorial Guinea	GNQ	N/A
-Eritrea	ERI	N/A
-Estonia	EST	N/A
-Eswatini	SWZ	N/A
-Ethiopia	ETH	N/A
-Falkland Islands	FLK	N/A
-Faroe Islands	FRO	N/A
-Fiji	FJI	N/A
-Finland	FIN	N/A
-France	FRA	N/A
-French Guiana	GUF	N/A
-French Polynesia	PYF	N/A
-Gabon	GAB	N/A
-Gambia	GMB	N/A
-Georgia	GEO	N/A
-Germany	DEU	N/A
-Ghana	GHA	N/A
-Gibraltar	GIB	N/A
-Greece	GRC	N/A
-Greenland	GRL	N/A
-Grenada	GRD	N/A
-Guadeloupe	GLP	N/A
-Guam	GUM	N/A
-Guatemala	GTM	N/A
-Guernsey	GGY	N/A
-Guinea	GIN	N/A
-Guinea-Bissau	GNB	N/A
-Guyana	GUY	N/A
-Haiti	HTI	N/A
-Honduras	HND	N/A
-Hong Kong	HKG	N/A
-Hungary	HUN	N/A
-Iceland	ISL	N/A
-India	IND	N/A
-Indonesia	IDN	N/A
-Iran	IRN	N/A
-Iraq	IRQ	N/A
-Ireland	IRL	N/A
-Isle of Man	IMN	N/A
-Israel	ISR	N/A
-Italy	ITA	N/A
-Jamaica	JAM	N/A
-Japan	JPN	N/A
-Jersey	JEY	N/A
-Jordan	JOR	N/A
-Kazakhstan	KAZ	N/A
-Kenya	KEN	N/A
-Kiribati	KIR	N/A
-North Korea	PRK	N/A
-South Korea	KOR	N/A
-Kosovo	XKX	N/A
-Kuwait	KWT	N/A
-Kyrgyzstan	KGZ	N/A
-Laos	LAO	N/A
-Latvia	LVA	N/A
-Lebanon	LBN	N/A
-Lesotho	LSO	N/A
-Liberia	LBR	N/A
-Libya	LBY	N/A
-Liechtenstein	LIE	N/A
-Lithuania	LTU	N/A
-Luxembourg	LUX	N/A
-Macau	MAC	N/A
-Madagascar	MDG	N/A
-North Macedonia	MKD	N/A
-Malawi	MWI	N/A
-Malaysia	MYS	N/A
-Maldives	MDV	2
-Mali	MLI	N/A
-Malta	MLT	N/A
-Marshall Islands	MHL	N/A
-Martinique	MTQ	N/A
-Mauritania	MRT	N/A
-Mauritius	MUS	26
-Mayotte	MYT	N/A
-Mexico	MEX	N/A
-Federated States of  Micronesia	FSM	N/A
-Moldova	MDA	2
-Monaco	MCO	N/A
-Mongolia	MNG	N/A
-Montenegro	MNE	N/A
-Montserrat	MSR	N/A
-Morocco	MAR	N/A
-Mozambique	MOZ	N/A
-Myanmar	MMR	N/A
-Namibia	NAM	N/A
-Nauru	NRU	N/A
-Nepal	NPL	N/A
-Netherlands	NLD	N/A
-New Caledonia	NCL	N/A
-New Zealand	NZL	N/A
-Nicaragua	NIC	N/A
-Niger	NER	N/A
-Nigeria	NGA	N/A
-Niue	NIU	N/A
-Norfolk Island	NFK	N/A
-North Macedonia	MKD	N/A
-Northern Cyprus	CYP	N/A
-Northern Mariana  Islands	MNP	N/A
-Norway	NOR	N/A
-Oman	OMN	N/A
-Pakistan	PAK	N/A
-Palau	PLW	N/A
-Palestine	PSE	N/A
-Panama	PAN	N/A
-Papua New Guinea	PNG	N/A
-Paraguay	PRY	N/A
-Peru	PER	N/A
-Philippines	PHL	N/A
-Pitcairn Islands	PCN	N/A
-Poland	POL	N/A
-Portugal	PRT	N/A
-Puerto Rico	PRI	N/A
-Qatar	QAT	N/A
-Réunion	REU	N/A
-Romania	ROU	N/A
-Russia	RUS	N/A
-Rwanda	RWA	N/A
-Saint Helena	SHN	N/A
-Saint Kitts and Nevis	KNA	N/A
-Saint Lucia	LCA	N/A
-Saint Pierre and  Miquelon	SPM	N/A
-Saint Vincent and the  Grenadines	VCT	N/A
-Samoa	WSM	1
-San Marino	SMR	N/A
-São Tomé and Príncipe	STP	N/A
-Saudi Arabia	SAU	N/A
-Senegal	SEN	N/A
-Serbia	SRB	N/A
-Seychelles	SYC	N/A
-Sierra Leone	SLE	N/A
-Singapore	SGP	N/A
-Sint Maarten	SXM	N/A
-Slovakia	SVK	N/A
-Slovenia	SVN	N/A
-Solomon Islands	SLB	N/A
-Somalia	SOM	N/A
-South Africa	ZAF	33
-South Sudan	SSD	N/A
-Spain	ESP	N/A
-Sri Lanka	LKA	N/A
-Sudan	SDN	N/A
-Suriname	SUR	N/A
-Sweden	SWE	N/A
-Switzerland	CHE	N/A
-Syria	SYR	N/A
-Taiwan	TWN	N/A
-Tajikistan	TJK	N/A
-Tanzania	TZA	N/A
-Thailand	THA	N/A
-Togo	TGO	N/A
-Tokelau	TKL	N/A
-Tonga	TON	N/A
-Trinidad and Tobago	TTO	N/A
-Tunisia	TUN	N/A
-Turkey	TUR	N/A
-Turkmenistan	TKM	N/A
-Turks and Caicos  Islands	TCA	N/A
-Tuvalu	TUV	N/A
-Uganda	UGA	N/A
-Ukraine	UKR	N/A
-United Arab Emirates	ARE	N/A
-United Kingdom	GBR	42
-United States	USA	N/A
-Uruguay	URY	N/A
-Uzbekistan	UZB	N/A
-Vanuatu	VUT	N/A
-Venezuela	VEN	N/A
-Vietnam	VNM	N/A
-United States Virgin Islands	VIR	N/A
-Wallis and Futuna	WLF	N/A
-Western Sahara	ESH	N/A
-Yemen	YEM	N/A
-Zambia	ZMB	N/A
-Zimbabwe	ZWE	N/A
+Country,iso3,Volume
+Afghanistan,AFG,N/A
+Albania,ALB,N/A
+Algeria,DZA,N/A
+American Samoa,ASM,N/A
+Andorra,AND,N/A
+Angola,AGO,N/A
+Anguilla,AIA,N/A
+Antigua and Barbuda,ATG,N/A
+Argentina,ARG,N/A
+Armenia,ARM,N/A
+Aruba,ABW,N/A
+Australia,AUS,64
+Austria,AUT,N/A
+Azerbaijan,AZE,N/A
+Bahamas,BHS,N/A
+Bahrain,BHR,N/A
+Bangladesh,BGD,N/A
+Barbados,BRB,N/A
+Belarus,BLR,N/A
+Belgium,BEL,3
+Belize,BLZ,3
+Benin,BEN,N/A
+Bermuda,BMU,N/A
+Bhutan,BTN,N/A
+Bolivia,BOL,N/A
+Bosnia and Herzegovina,BIH,N/A
+Botswana,BWA,N/A
+Brazil,BRA,N/A
+British Virgin Islands,VGB,N/A
+Brunei,BRN,N/A
+Bulgaria,BGR,N/A
+Burkina Faso,BFA,N/A
+Burundi,BDI,N/A
+Cambodia,KHM,N/A
+Cameroon,CMR,N/A
+Canada,CAN,N/A
+Cape Verde,CPV,N/A
+Cayman Islands,CYM,N/A
+Central African Republic,CAF,N/A
+Chad,TCD,N/A
+Chile,CHL,N/A
+China,CHN,N/A
+Cocos (Keeling) Islands,CCK,N/A
+Colombia,COL,N/A
+Comoros,COM,N/A
+Democratic Republic of  the Congo,COD,N/A
+Republic of the Congo,COG,N/A
+Cook Islands,COK,N/A
+Costa Rica,CRI,N/A
+Côte d'Ivoire,CIV,N/A
+Croatia,HRV,N/A
+Cuba,CUB,N/A
+Curaçao,CUW,N/A
+Cyprus,CYP,N/A
+Czech Republic,CZE,N/A
+Denmark,DNK,N/A
+Djibouti,DJI,N/A
+Dominica,DMA,N/A
+Dominican Republic,DOM,N/A
+East Timor,TLS,N/A
+Ecuador,ECU,N/A
+Egypt,EGY,N/A
+El Salvador,SLV,N/A
+Equatorial Guinea,GNQ,N/A
+Eritrea,ERI,N/A
+Estonia,EST,N/A
+Eswatini,SWZ,N/A
+Ethiopia,ETH,N/A
+Falkland Islands,FLK,N/A
+Faroe Islands,FRO,N/A
+Fiji,FJI,N/A
+Finland,FIN,N/A
+France,FRA,N/A
+French Guiana,GUF,N/A
+French Polynesia,PYF,N/A
+Gabon,GAB,N/A
+Gambia,GMB,N/A
+Georgia,GEO,N/A
+Germany,DEU,N/A
+Ghana,GHA,N/A
+Gibraltar,GIB,N/A
+Greece,GRC,N/A
+Greenland,GRL,N/A
+Grenada,GRD,N/A
+Guadeloupe,GLP,N/A
+Guam,GUM,N/A
+Guatemala,GTM,N/A
+Guernsey,GGY,N/A
+Guinea,GIN,N/A
+Guinea-Bissau,GNB,N/A
+Guyana,GUY,N/A
+Haiti,HTI,N/A
+Honduras,HND,N/A
+Hong Kong,HKG,N/A
+Hungary,HUN,N/A
+Iceland,ISL,N/A
+India,IND,N/A
+Indonesia,IDN,N/A
+Iran,IRN,N/A
+Iraq,IRQ,N/A
+Ireland,IRL,N/A
+Isle of Man,IMN,N/A
+Israel,ISR,N/A
+Italy,ITA,N/A
+Jamaica,JAM,N/A
+Japan,JPN,N/A
+Jersey,JEY,N/A
+Jordan,JOR,N/A
+Kazakhstan,KAZ,N/A
+Kenya,KEN,N/A
+Kiribati,KIR,N/A
+North Korea,PRK,N/A
+South Korea,KOR,N/A
+Kosovo,XKX,N/A
+Kuwait,KWT,N/A
+Kyrgyzstan,KGZ,N/A
+Laos,LAO,N/A
+Latvia,LVA,N/A
+Lebanon,LBN,N/A
+Lesotho,LSO,N/A
+Liberia,LBR,N/A
+Libya,LBY,N/A
+Liechtenstein,LIE,N/A
+Lithuania,LTU,N/A
+Luxembourg,LUX,N/A
+Macau,MAC,N/A
+Madagascar,MDG,N/A
+North Macedonia,MKD,N/A
+Malawi,MWI,N/A
+Malaysia,MYS,N/A
+Maldives,MDV,2
+Mali,MLI,N/A
+Malta,MLT,N/A
+Marshall Islands,MHL,N/A
+Martinique,MTQ,N/A
+Mauritania,MRT,N/A
+Mauritius,MUS,26
+Mayotte,MYT,N/A
+Mexico,MEX,N/A
+Federated States of  Micronesia,FSM,N/A
+Moldova,MDA,2
+Monaco,MCO,N/A
+Mongolia,MNG,N/A
+Montenegro,MNE,N/A
+Montserrat,MSR,N/A
+Morocco,MAR,N/A
+Mozambique,MOZ,N/A
+Myanmar,MMR,N/A
+Namibia,NAM,N/A
+Nauru,NRU,N/A
+Nepal,NPL,N/A
+Netherlands,NLD,N/A
+New Caledonia,NCL,N/A
+New Zealand,NZL,N/A
+Nicaragua,NIC,N/A
+Niger,NER,N/A
+Nigeria,NGA,N/A
+Niue,NIU,N/A
+Norfolk Island,NFK,N/A
+North Macedonia,MKD,N/A
+Northern Cyprus,CYP,N/A
+Northern Mariana  Islands,MNP,N/A
+Norway,NOR,N/A
+Oman,OMN,N/A
+Pakistan,PAK,N/A
+Palau,PLW,N/A
+Palestine,PSE,N/A
+Panama,PAN,N/A
+Papua New Guinea,PNG,N/A
+Paraguay,PRY,N/A
+Peru,PER,N/A
+Philippines,PHL,N/A
+Pitcairn Islands,PCN,N/A
+Poland,POL,N/A
+Portugal,PRT,N/A
+Puerto Rico,PRI,N/A
+Qatar,QAT,N/A
+Réunion,REU,N/A
+Romania,ROU,N/A
+Russia,RUS,N/A
+Rwanda,RWA,N/A
+Saint Helena,SHN,N/A
+Saint Kitts and Nevis,KNA,N/A
+Saint Lucia,LCA,N/A
+Saint Pierre and  Miquelon,SPM,N/A
+Saint Vincent and the  Grenadines,VCT,N/A
+Samoa,WSM,1
+San Marino,SMR,N/A
+São Tomé and Príncipe,STP,N/A
+Saudi Arabia,SAU,N/A
+Senegal,SEN,N/A
+Serbia,SRB,N/A
+Seychelles,SYC,N/A
+Sierra Leone,SLE,N/A
+Singapore,SGP,N/A
+Sint Maarten,SXM,N/A
+Slovakia,SVK,N/A
+Slovenia,SVN,N/A
+Solomon Islands,SLB,N/A
+Somalia,SOM,N/A
+South Africa,ZAF,33
+South Sudan,SSD,N/A
+Spain,ESP,N/A
+Sri Lanka,LKA,N/A
+Sudan,SDN,N/A
+Suriname,SUR,N/A
+Sweden,SWE,N/A
+Switzerland,CHE,N/A
+Syria,SYR,N/A
+Taiwan,TWN,N/A
+Tajikistan,TJK,N/A
+Tanzania,TZA,N/A
+Thailand,THA,N/A
+Togo,TGO,N/A
+Tokelau,TKL,N/A
+Tonga,TON,N/A
+Trinidad and Tobago,TTO,N/A
+Tunisia,TUN,N/A
+Turkey,TUR,N/A
+Turkmenistan,TKM,N/A
+Turks and Caicos  Islands,TCA,N/A
+Tuvalu,TUV,N/A
+Uganda,UGA,N/A
+Ukraine,UKR,N/A
+United Arab Emirates,ARE,N/A
+United Kingdom,GBR,42
+United States,USA,N/A
+Uruguay,URY,N/A
+Uzbekistan,UZB,N/A
+Vanuatu,VUT,N/A
+Venezuela,VEN,N/A
+Vietnam,VNM,N/A
+United States Virgin Islands,VIR,N/A
+Wallis and Futuna,WLF,N/A
+Western Sahara,ESH,N/A
+Yemen,YEM,N/A
+Zambia,ZMB,N/A
+Zimbabwe,ZWE,N/A
