@@ -103,7 +103,7 @@
           "key": "iso3",
           "fields": ["Volume"],
           "data": {
-            "url": "https://raw.githubusercontent.com/sambendje/sambendje.github.io/main/CountryUsageDA.csv"
+            "url": "https://raw.githubusercontent.com/sambendje/sambendje.github.io/main/usageda.csv"
           }
         }
       },
@@ -111,4 +111,5 @@
     "autosize": {"type": "fit", "contains": "padding", "resize": false}
 
   }
+
 
